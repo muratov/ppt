@@ -8,7 +8,7 @@
 (function($) {
     $.fn.extend({
         ppt: function() {
-            //func
+            //function
         }
     });
 })(jQuery);
